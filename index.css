@@ -1,0 +1,155 @@
+#all{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(220, 220, 220);
+    padding: 0;
+    margin: 0;
+}
+#all{
+    display: flex;
+}
+.imgd1{
+    width: 232px;
+    height: 200px;
+    transform: translateX(377.02px);
+}
+.imgd2{
+    width: 255.537px;
+    height: 250px;
+    transform: translateX(375px);
+    margin-top: -20px;
+}
+.imgd3{
+    width: 255.537px;
+    height: 250px;
+    transform: translateX(393px);
+    margin-top: -40px;
+}
+.imgd4{
+    width: 250px;
+    height: 250px;
+    transform: translateX(381px);
+    margin-top: -15px;
+}
+.imgd5{
+    width: 280px;
+    height: 280px;
+    transform: translateX(420px);
+    margin-top: -30px;
+}
+.imgl1{
+    width: 384px;
+    height: 216px;
+    transform: translateX(305px);
+}
+.imgl2{
+    width: 255.537px;
+    height: 250px;
+    transform: translateX(375px);
+    margin-top: -20px;
+}
+.imgl3{
+    width: 255.537px;
+    height: 250px;
+    transform: translateX(420px);
+    margin-top: -40px;
+}
+.imgl4{
+    width: 250px;
+    height: 250px;
+    transform: translateX(372px);
+    margin-top: -15px;
+}
+.imgl5{
+    width: 280px;
+    height: 280px;
+    transform: translateX(420px);
+    margin-top: -30px;
+}
+.dark{
+    width: 660px;
+    height: 1176px;
+    margin-right: 24px; /*Thêm thuộc tính này*/
+    margin-top: 64px;
+}
+.dark1{
+    margin-top: 64px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: linear-gradient(90.02deg, #25335A 0.02%, #141824 113.01%);
+    position: relative;
+    border-radius: 16px;
+}
+.dark12{
+    margin-top: 32px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: linear-gradient(90.02deg, #25335A 0.02%, #141824 113.01%);
+    position: relative;
+    border-radius: 16px;
+}
+.d1{
+    width: 270px;
+    height: 33px;
+    font-family: Open Sans;
+    font-size: 24px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+    color: white;
+}
+.d2{
+    width: 263px;
+    height: 44px; 
+    font-family: Open Sans;
+    font-size: 32px; 
+    position: absolute;
+    top: 105px;
+    left: 40px;
+    color: white;
+}
+.light{
+    width: 660px;
+    height: 1176px;
+    margin-top: 64px;
+}
+.light1{
+    margin-top: 64px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: white;
+    position: relative;
+    border-radius: 16px;
+}
+.light12{
+    margin-top: 32px;
+    margin-left: 48px;
+    width: 660px;
+    height: 184px;
+    background: white;
+    position: relative;
+    border-radius: 16px;
+}
+.l1{
+    width: 270px;
+    height: 33px;
+    font-family: Open Sans;
+    font-size: 24px;
+    position: absolute;
+    top: 72px;
+    left: 40px;
+    color: #B65741;
+}
+.l2{
+    width: 263px;
+    height: 44px; 
+    font-family: Open Sans;
+    font-size: 32px; 
+    position: absolute;
+    top: 105px;
+    left: 40px;
+    color: #B65741;
+}
